@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-to test the edit 
-edited in vscode 
-=======
 to test the edit hello 
 edited in vscode raja
->>>>>>> master
 to check restore garu
 extra
